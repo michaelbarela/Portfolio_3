@@ -1,7 +1,7 @@
 html, body{
 	font-size:16px;
 	color: #dfdfdf;
-	background-color: #0d6326; 
+	background-color: #386d4859; 
 }
 
 a {
@@ -12,7 +12,7 @@ a:hover {
   color: #00d1b2;
 }
 
-#crystal , #train {
+#crystal , #train , #eventCreator{
 	height: 200px;
 }
 
@@ -24,25 +24,29 @@ a:hover {
 	filter: invert(100%) !important;
 }
 
+#eventCreator:hover{
+	filter: invert(100%) !important;
+}
+
 section{
 	padding-top: 3rem;
 	padding-bottom: 3rem;
 }
 
 .section-1 {
-	background: #093661;
+	background: #2d5b86;
 }
 
 .section-2 {
-	background-color: rgb(10, 57, 110);
+	background-color:#2d5b86;
 }
 
 .section-3 {
-	background-color: rgb(27, 52, 85);
+	background-color: #2d5b86;
 }
 
 .section-4 {
-	background-color: #184b35;
+	background-color: #b4c8ca59;
 	padding: 0.2rem;
 }
 
